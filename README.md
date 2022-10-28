@@ -15,7 +15,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eduard-cuba/), [Twitte
 
 I contributed to projects in:
 - RPM software management: [DNF](https://github.com/rpm-software-management/dnf), [libdnf](https://github.com/rpm-software-management/libdnf), [ci-dnf-stack](https://github.com/rpm-software-management/ci-dnf-stack)
-- Cyber security: [MISP](https://github.com/MISP/MISP), [Arkime](https://github.com/arkime/arkime), [tcpflow](https://github.com/simsong/tcpflow), [WALKOFF](https://github.com/nsacyber/WALKOFF)
+- Cyber security: [MISP](https://github.com/MISP/MISP), [Arkime](https://github.com/arkime/arkime), [tcpflow](https://github.com/simsong/tcpflow)
 - [HEP benchmarking](https://gitlab.cern.ch/hep-benchmarks)
 
 Also check out some of my published projects from [BUT](https://www.vut.cz/en/) times like [esp8266-led](https://github.com/edcuba/esp8266-led) or [qt-pasians](https://github.com/edcuba/qt-pasians).
