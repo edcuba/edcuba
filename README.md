@@ -16,7 +16,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eduard-cuba/), [Twitte
 I contributed to open-source projects in:
 - RPM software management: [DNF](https://github.com/rpm-software-management/dnf), [libdnf](https://github.com/rpm-software-management/libdnf), [ci-dnf-stack](https://github.com/rpm-software-management/ci-dnf-stack)
 - Cyber security: [Arkime](https://github.com/arkime/arkime), [tcpflow](https://github.com/simsong/tcpflow)
-- HPC for HEP: [HEP benchmarking](https://gitlab.cern.ch/hep-benchmarks)
+- AI for HPC in HEP: [HEP benchmarking](https://gitlab.cern.ch/hep-benchmarks), [Particleflow](https://github.com/jpata/particleflow)
 
 and published a series of my own projects, have a look!
 
