@@ -18,6 +18,4 @@ I contributed to open-source projects in:
 - Cyber security: [Arkime](https://github.com/arkime/arkime), [tcpflow](https://github.com/simsong/tcpflow)
 - AI for HPC in HEP: [HEP benchmarking](https://gitlab.cern.ch/hep-benchmarks), [Particleflow](https://github.com/jpata/particleflow)
 
-and published a series of my own projects, have a look!
-
-Not for hire at the moment, busy at [CERN](https://home.web.cern.ch/) 👷🏼‍♂️
+and published a series of my own projects like [Faqtie](https://faqtie.com), have a look!
