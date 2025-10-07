@@ -1,8 +1,9 @@
 # Hey there! 👨🏽‍💻
 
-I'm a Research Engineer working on AI & Machine Learning for Data Integration at [Oracle Labs](https://labs.oracle.com/), focusing on LLMs, Agentic AI, and Graph ML.
+I'm a [Research Engineer](https://labs.oracle.com/pls/apex/f?p=94065:11:105813832896384:10495) working on AI & Machine Learning for Data Integration at [Oracle Labs](https://labs.oracle.com/), focusing on LLMs, Agentic AI, and Graph ML.
 
 ## 🚀 Recent Projects
+- [Wayflow](https://github.com/oracle/wayflow) Oracle's declarative Python framework for building enterprise AI agents
 - [Faqtie](https://faqtie.com/) a smart, simple tool for creating and currating FAQs using AI
 - Particle showers recontruction using GNNs at [CERN](https://home.cern/)
 - AI for Sustainability Research at [UZH](https://www.ifi.uzh.ch/en.html).
@@ -15,7 +16,7 @@ I'm a Research Engineer working on AI & Machine Learning for Data Integration at
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/eduard-cuba/)
 - [Google Scholar](https://scholar.google.com/citations?user=SxRRQQIAAAAJ&hl=en)
-- [X](https://x.com/cubaedo)
+- [X / Twitter](https://x.com/cubaedo)
 - [ecuba.ch](https://ecuba.ch)
 
 ## ❤️ Open Source
