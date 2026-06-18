@@ -1,6 +1,6 @@
 # Hey there! 👨🏽‍💻
 
-I'm a [Research Engineer](https://labs.oracle.com/pls/apex/f?p=94065:11:105813832896384:10495) working on AI & Machine Learning for Data Integration at [Oracle Labs](https://labs.oracle.com/), focusing on LLMs, Agentic AI, and Graph ML.
+I'm a [Research Engineer](https://labs.oracle.com/pls/apex/f?p=94065:11:105813832896384:10495) working on AI & Machine Learning for Data Integration at [Oracle](https://labs.oracle.com/), focusing on LLMs, Agentic AI, and Graph ML.
 
 ## 🚀 Recent Projects
 - [Wayflow](https://github.com/oracle/wayflow) - Oracle's declarative Python framework for building enterprise AI agents
