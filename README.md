@@ -17,7 +17,7 @@ I'm a [Research Engineer](https://labs.oracle.com/pls/apex/f?p=94065:11:10581383
 - [LinkedIn](https://www.linkedin.com/in/eduard-cuba/)
 - [Google Scholar](https://scholar.google.com/citations?user=SxRRQQIAAAAJ&hl=en)
 - [X / Twitter](https://x.com/cubaedo)
-- [ecuba.ch](https://ecuba.ch)
+- [edcuba.com](https://edcuba.com)
 
 ## ❤️ Open Source
 **Major contributions:**
