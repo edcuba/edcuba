@@ -15,6 +15,21 @@
 
             <details class="sidebar-menu">
                 <summary class="sidebar-menu-toggle">&#9776; Menu</summary>
+                <script>
+                    // Chrome's <details> renders collapsed content through an internal
+                    // ::details-content wrapper that ignores author display overrides on
+                    // the children, so forcing it open on desktop needs the real [open]
+                    // attribute rather than a CSS display:block fight.
+                    (function () {
+                        var menu = document.currentScript.closest('.sidebar-menu');
+                        var mq = window.matchMedia('(min-width: 821px)');
+                        function sync() {
+                            menu.toggleAttribute('open', mq.matches);
+                        }
+                        mq.addEventListener('change', sync);
+                        sync();
+                    })();
+                </script>
 
                 <div class="sidebar-heading">Contents</div>
                 <div class="sidebar-nav">
@@ -43,6 +58,7 @@
         </nav>
 
         <main class="content">
+          <div class="content-inner">
             <div class="page-title" id="top">Eduard Cuba</div>
             <div class="page-subtitle">Machine Learning &amp; AI Engineer</div>
 
@@ -287,6 +303,7 @@
 
                 <div class="page-footer">This page was last updated September 2026.</div>
             </article>
+          </div>
         </main>
     </div>
 </body>

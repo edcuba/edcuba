@@ -87,13 +87,6 @@ a:hover {
     display: none;
 }
 
-/* Force the sidebar contents visible regardless of native <details>
-   open state; mobile explicitly hides them again unless [open]. */
-.sidebar-menu > .sidebar-heading,
-.sidebar-menu > .sidebar-nav {
-    display: block !important;
-}
-
 .sidebar-heading {
     font-size: 11px;
     text-transform: uppercase;
@@ -156,6 +149,11 @@ a:hover {
     padding: 36px 48px 60px;
 }
 
+.content-inner {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
 .page-title {
     font-family: var(--serif);
     font-size: 34px;
@@ -173,9 +171,6 @@ a:hover {
     margin-bottom: 24px;
 }
 
-article {
-    max-width: 760px;
-}
 
 .lead {
     font-size: 16px;
