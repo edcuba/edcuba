@@ -1,6 +1,6 @@
 # Hey there! 👨🏽‍💻
 
-I'm a [Research Engineer](https://labs.oracle.com/pls/apex/f?p=94065:11:105813832896384:10495) working on AI & Machine Learning for Data Integration at [Oracle](https://labs.oracle.com/), focusing on LLMs, Agentic AI, and Graph ML.
+I'm a Machine Learning and AI Engineer based in Zürich, Switzerland. Previously: Research Engineer at [Oracle](https://www.oracle.com/), AI research at [CERN](https://home.cern/) and the [University of Zürich](https://www.uzh.ch/en.html), and several years as a full-stack and backend engineer.
 
 ## 🚀 Recent Projects
 - [Faqtie](https://faqtie.com/) - a smart, simple tool for creating and currating FAQs using AI
