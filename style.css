@@ -83,12 +83,15 @@ a:hover {
     margin-bottom: 24px;
 }
 
-.sidebar-menu {
-    display: contents;
-}
-
 .sidebar-menu-toggle {
     display: none;
+}
+
+/* Force the sidebar contents visible regardless of native <details>
+   open state; mobile explicitly hides them again unless [open]. */
+.sidebar-menu > .sidebar-heading,
+.sidebar-menu > .sidebar-nav {
+    display: block;
 }
 
 .sidebar-heading {
@@ -393,6 +396,11 @@ article {
 
     .sidebar-menu {
         display: block;
+    }
+
+    .sidebar-menu:not([open]) > .sidebar-heading,
+    .sidebar-menu:not([open]) > .sidebar-nav {
+        display: none;
     }
 
     .sidebar-menu-toggle {
