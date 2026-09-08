@@ -278,50 +278,6 @@ a:hover {
     margin: 20px 0 8px;
 }
 
-/* Entries (jobs / projects / research items) */
-
-.entry {
-    margin-bottom: 22px;
-    padding-bottom: 18px;
-    border-bottom: 1px solid #eee;
-}
-
-.entry:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-.entry-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 4px 16px;
-    margin-bottom: 4px;
-}
-
-.entry-title {
-    font-weight: 600;
-    font-size: 15.5px;
-}
-
-.entry-org {
-    color: var(--link);
-    font-weight: 500;
-}
-
-.entry-date {
-    font-size: 12.5px;
-    color: var(--text-secondary);
-    white-space: nowrap;
-}
-
-.entry-desc {
-    color: #3a3a3a;
-    font-size: 14.5px;
-}
-
 .tag {
     color: var(--link);
     font-weight: 500;
@@ -336,28 +292,6 @@ a:hover {
 
 .plain-list li {
     margin-bottom: 6px;
-}
-
-.skills-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 14.5px;
-}
-
-.skills-table td {
-    padding: 8px 10px;
-    border-top: 1px solid #eee;
-    vertical-align: top;
-}
-
-.skills-table tr:first-child td {
-    border-top: none;
-}
-
-.skills-table td.cat {
-    width: 26%;
-    font-weight: 600;
-    white-space: nowrap;
 }
 
 .page-footer {
