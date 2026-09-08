@@ -1,7 +1,7 @@
 /* Eduard Cuba — wiki-style site */
 
 :root {
-    --bg: #f6f6f6;
+    --bg: #f8f9fa;
     --content-bg: #ffffff;
     --border: #c8ccd1;
     --border-strong: #a2a9b1;
@@ -44,8 +44,6 @@ a:hover {
 .wiki-layout {
     display: flex;
     align-items: flex-start;
-    max-width: 1180px;
-    margin: 0 auto;
     min-height: 100vh;
 }
 
@@ -142,6 +140,7 @@ a:hover {
 .content {
     flex: 1 1 auto;
     min-width: 0;
+    min-height: 100vh;
     background: var(--content-bg);
     padding: 36px 48px 60px;
 }
