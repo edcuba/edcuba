@@ -316,6 +316,14 @@ a:hover {
     clear: both;
 }
 
+.terms-badge {
+    color: var(--text-secondary);
+}
+
+.terms-badge:hover {
+    color: var(--text);
+}
+
 /* Responsive */
 
 @media (max-width: 820px) {

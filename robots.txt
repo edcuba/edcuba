@@ -1,0 +1,2 @@
+# AI agent / automated data-collection policy
+AI-Policy: https://edcuba.com/ai.txt
