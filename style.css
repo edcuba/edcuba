@@ -83,6 +83,14 @@ a:hover {
     margin-bottom: 24px;
 }
 
+.sidebar-menu {
+    display: contents;
+}
+
+.sidebar-menu-toggle {
+    display: none;
+}
+
 .sidebar-heading {
     font-size: 11px;
     text-transform: uppercase;
@@ -375,7 +383,43 @@ article {
         flex: none;
         position: static;
         min-height: 0;
-        padding: 16px 20px;
+        padding: 14px 20px;
+    }
+
+    .sidebar-brand,
+    .sidebar-tagline {
+        display: inline;
+    }
+
+    .sidebar-tagline {
+        margin-bottom: 0;
+        margin-left: 8px;
+    }
+
+    .sidebar-menu {
+        display: block;
+        margin-top: 10px;
+    }
+
+    .sidebar-menu-toggle {
+        display: inline-block;
+        list-style: none;
+        cursor: pointer;
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text);
+        padding: 6px 12px;
+        border: 1px solid var(--border-strong);
+        border-radius: 4px;
+        background: var(--content-bg);
+    }
+
+    .sidebar-menu-toggle::-webkit-details-marker {
+        display: none;
+    }
+
+    .sidebar-menu[open] .sidebar-menu-toggle {
+        margin-bottom: 10px;
     }
 
     .sidebar-heading {
