@@ -388,17 +388,11 @@ article {
 
     .sidebar-brand,
     .sidebar-tagline {
-        display: inline;
-    }
-
-    .sidebar-tagline {
-        margin-bottom: 0;
-        margin-left: 8px;
+        display: none;
     }
 
     .sidebar-menu {
         display: block;
-        margin-top: 10px;
     }
 
     .sidebar-menu-toggle {
@@ -412,6 +406,11 @@ article {
         border: 1px solid var(--border-strong);
         border-radius: 4px;
         background: var(--content-bg);
+    }
+
+    .sidebar-menu-toggle::marker {
+        content: "";
+        display: none;
     }
 
     .sidebar-menu-toggle::-webkit-details-marker {
