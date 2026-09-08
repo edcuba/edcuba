@@ -91,7 +91,7 @@ a:hover {
    open state; mobile explicitly hides them again unless [open]. */
 .sidebar-menu > .sidebar-heading,
 .sidebar-menu > .sidebar-nav {
-    display: block;
+    display: block !important;
 }
 
 .sidebar-heading {
@@ -400,7 +400,7 @@ article {
 
     .sidebar-menu:not([open]) > .sidebar-heading,
     .sidebar-menu:not([open]) > .sidebar-nav {
-        display: none;
+        display: none !important;
     }
 
     .sidebar-menu-toggle {
