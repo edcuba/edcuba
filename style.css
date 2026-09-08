@@ -10,8 +10,26 @@
     --link: #0645ad;
     --link-hover: #3366cc;
     --sidebar-bg: #f8f9fa;
+    --nav-hover-bg: #eaecf0;
+    --nav-current-bg: #eaf3ff;
     --serif: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
     --sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #101418;
+        --content-bg: #16191c;
+        --border: #3a3f44;
+        --border-strong: #54595d;
+        --text: #eaecf0;
+        --text-secondary: #a2a9b1;
+        --link: #6cb6ff;
+        --link-hover: #90ceff;
+        --sidebar-bg: #16191c;
+        --nav-hover-bg: #24282c;
+        --nav-current-bg: #1b3a57;
+    }
 }
 
 * {
@@ -121,13 +139,13 @@ a:hover {
 }
 
 .sidebar-nav a:hover {
-    background: #eaecf0;
+    background: var(--nav-hover-bg);
     text-decoration: none;
     color: var(--link);
 }
 
 .sidebar-nav a.current {
-    background: #eaf3ff;
+    background: var(--nav-current-bg);
     color: var(--link);
     font-weight: 600;
 }
@@ -276,11 +294,6 @@ a:hover {
     font-weight: 400;
     font-size: 17px;
     margin: 20px 0 8px;
-}
-
-.tag {
-    color: var(--link);
-    font-weight: 500;
 }
 
 /* Lists */
