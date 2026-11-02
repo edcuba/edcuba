@@ -1,19 +1,17 @@
-# Eduard Cuba
+# Hey there! 👋
 
-ai engineer
+I'm a Machine Learning and AI Engineer based in Zürich 🇨🇭.
 
-- genai at [google](https://cloud.google.com/ai)
-- ml & ai at [oracle](https://www.oracle.com/)
-- ml for hep at [cern](https://home.cern/)
-- data pipelines at [dreamlab](https://dreamlab.net/)
-- full-stack at [procivis](https://www.procivis.ch/)
-- package management at [red hat](https://www.redhat.com/)
+**Open Source contributions**
+- [Wayflow](https://github.com/oracle/wayflow) - Oracle's declarative Python framework for building enterprise AI agents
+- RPM management: [DNF](https://github.com/rpm-software-management/dnf), [libdnf](https://github.com/rpm-software-management/libdnf), [ci-dnf-stack](https://github.com/rpm-software-management/ci-dnf-stack)
+- Minor contributions: [Particleflow](https://github.com/jpata/particleflow), [MISP](https://github.com/MISP/MISP), [Arkime](https://github.com/arkime/arkime), [tcpflow](https://github.com/simsong/tcpflow), [WALKOFF](https://github.com/nsacyber/WALKOFF)
 
-~
+**Publications**
 
-- msc in ai at [uni zürich](https://www.ifi.uzh.ch/en.html)
-- bsc in it at [but brno](https://www.fit.vut.cz/.en)
+Find my publications at [Google Scholar](https://scholar.google.com/citations?user=SxRRQQIAAAAJ&hl=en).
 
-~
-
-[edcuba.com](https://edcuba.com) · [linkedin](https://www.linkedin.com/in/eduard-cuba/) · [scholar](https://scholar.google.com/citations?user=SxRRQQIAAAAJ&hl=en) · [x](https://x.com/cubaedo)
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/eduard-cuba/)
+- [X / Twitter](https://x.com/cubaedo)
+- [edcuba.com](https://edcuba.com)
