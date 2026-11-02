@@ -61,6 +61,7 @@ a:hover, a:focus-visible { color: var(--accent); border-color: var(--accent); ou
 @media (max-width: 420px) { .links a { margin: 0 .3rem; } }
 
 .quiet { color: var(--muted); border: 0; }
+.dim { color: var(--muted); }
 
 @media (prefers-reduced-motion: reduce) {
     .dots i, .blink, .tilde { animation: none; }

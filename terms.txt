@@ -1,0 +1,22 @@
+# terms -- edcuba.com
+
+This is a personal website. Content is (c) Eduard Cuba unless noted.
+
+## privacy
+
+- No cookies, no ads, no tracking across sites.
+- Analytics: Cloudflare Web Analytics -- cookieless, aggregate page-view
+  and performance stats only. No personal profiles are built.
+- Hosting: the site is served through Cloudflare, which processes
+  visitor IP addresses to deliver the page and protect it from abuse.
+- Fonts: the typeface is loaded from Google Fonts, so your browser
+  sends a request (including your IP address) to Google.
+- Nothing collected here is sold or shared for marketing.
+
+Questions or requests: contact@edcuba.com
+
+## automated access
+
+AI agents and crawlers: see /ai.txt
+
+Last updated: 2026-11-02
